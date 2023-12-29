@@ -17,7 +17,7 @@ The Sigma Web Development course by CodeWithHarry is an immersive journey into t
 
 This section will feature highlights from the projects I've worked on during the course. Each project demonstrates the skills and concepts acquired during specific modules.
 
-**PROJECTS COMING IN FUTURE< FOR NOW ITS JUST A DEMO**
+**PROJECTS COMING IN FUTURE FOR NOW ITS JUST A DEMO**
   
 - **Project 1: Responsive Portfolio Website**
   - Description: A personal portfolio showcasing my web development journey.
