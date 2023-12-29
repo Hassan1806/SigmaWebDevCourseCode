@@ -2,12 +2,6 @@
 
 Welcome to the WebDev Course Journey repository! This repository documents my progress and learning throughout the Sigma Web Development course. Whether you're a fellow learner, instructor, or curious visitor, feel free to explore and follow along with my coding adventures.
 
-## Table of Contents
-
-- [About the Course](#Website_Development_Course_By_CodeWithHarry)
-- [Learning Goals](#Become_a_FullStackWebDeveloper)
-- [Project Showcase](#Projects_Coming_in_Future)
-
 ## About the Course
 
 The Sigma Web Development course by CodeWithHarry is an immersive journey into the world of web development. It covers a wide range of topics, from the basics of HTML, CSS, and JavaScript to advanced concepts such as front-end frameworks, back-end development, and deployment strategies.
@@ -28,12 +22,12 @@ This section will feature highlights from the projects I've worked on during the
 - **Project 1: Responsive Portfolio Website**
   - Description: A personal portfolio showcasing my web development journey.
   - Technologies: HTML, CSS, JavaScript.
-  - [Link to Project](#)
+  - [ComingSoon](#)
 
 - **Project 2: Interactive Web Application**
   - Description: An engaging web app incorporating front-end frameworks.
   - Technologies: React.js, Next.js 
-  - [Link to Project](#)
+  - [ComingSoon](#)
 
 ...
 
@@ -55,8 +49,8 @@ Outlined here are the key modules and topics covered in the course. Each section
 
 Here, I'll compile a list of resources that have been particularly helpful in my learning journey. This includes books, tutorials, and online courses.
 
-- [Sigma Website Development Course Playlist](youtu.be/tVzUXW6siu0?feature=shared) - Starting from first class. This Course is from CodeWithHarry on Youtube.
-- [Original GitHub Repo Link](github.com/CodeWithHarry/Sigma-Web-Dev-Course) - The Github Repository with all of source code written throughout the course.
+- [Sigma Website Development Course Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w) - Starting from first class. This Course is from CodeWithHarry on Youtube.
+- [Original GitHub Repo Link](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course.git) - The Github Repository with all of source code written throughout the course.
 
 ## Acknowledgments
 
@@ -67,8 +61,8 @@ I extend my gratitude to the instructor, mentors, and fellow learners who have m
 Let's connect! Feel free to reach out for collaboration, questions, or just to share your own coding adventures.
 
 - Email: [My_Email_Address_For_Inquiries ](mailto:muhammadhassan1806@gmail.com)
-- LinkedIn: [@My_LinkedIn](#ComingSoon)
-- Twitter: [@MyTwitterHandle](#ComingSoon)
+- LinkedIn: [ComingSoon](#ComingSoon)
+- Twitter: [ComingSoon](#ComingSoon)
 
 Happy coding!
 
